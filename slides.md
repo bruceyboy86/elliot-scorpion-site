@@ -64,8 +64,15 @@ h1{
 
 ---
 layout: image
-image: ./Giant_forest_scorpion.JPG
+image: ./scorpion_collage.png
 class: 'text-center'
 ---
 
 # There are 1500 species of scorpion
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
