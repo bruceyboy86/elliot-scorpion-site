@@ -98,7 +98,7 @@ image: ./UV-Scoprions.jpg
 class: 'text-center'
 ---
 
-# Their armour contains of fluorescent chemicals that glow under uv light.
+# Their armor contains fluorescent chemicals that glow under UV light.
 
 <style>
 h1{
@@ -113,7 +113,7 @@ image: ./scorpion_canibal.jpg
 class: 'text-center'
 ---
 
-# Scorpions are canibals
+# Scorpions are cannibals
 
 <style>
 h1{
