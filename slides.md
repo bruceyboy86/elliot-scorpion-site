@@ -124,7 +124,7 @@ h1{
 
 ---
 layout: image
-image: ./UV-Scoprions.jpg
+image: ./scorpion_fossil.jpg
 class: 'text-center'
 ---
 
