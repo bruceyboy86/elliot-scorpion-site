@@ -76,3 +76,63 @@ h1{
   text-shadow: 3px 3px 7px #000000;
 }
 </style>
+
+---
+layout: image
+image: ./scorpion_collage.png
+class: 'text-center'
+---
+
+# Meerkats hunt scorpions and they bite off their stingers
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./scorpion_collage.png
+class: 'text-center'
+---
+
+# There are 1500 species of scorpion
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./scorpion_collage.png
+class: 'text-center'
+---
+
+# There are 1500 species of scorpion
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./scorpion_collage.png
+class: 'text-center'
+---
+
+# There are 1500 species of scorpion
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
