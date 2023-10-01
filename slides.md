@@ -94,7 +94,7 @@ h1{
 
 ---
 layout: image
-image: ./scorpion_collage.png
+image: ./UV-Scoprions.jpg
 class: 'text-center'
 ---
 
