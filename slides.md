@@ -107,3 +107,63 @@ h1{
 }
 </style>
 
+---
+layout: image
+image: ./UV-Scoprions.jpg
+class: 'text-center'
+---
+
+# Scorpions are canibals
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./UV-Scoprions.jpg
+class: 'text-center'
+---
+
+# Scorpions species have been alive for 435 million years
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./UV-Scoprions.jpg
+class: 'text-center'
+---
+
+# Some scorpions live in the desert
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
+---
+layout: image
+image: ./UV-Scoprions.jpg
+class: 'text-center'
+---
+
+# Scorpiones is latin for scorpions
+
+<style>
+h1{
+  color: white;
+  text-shadow: 3px 3px 7px #000000;
+}
+</style>
+
