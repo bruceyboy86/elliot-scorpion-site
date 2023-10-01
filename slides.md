@@ -109,7 +109,7 @@ h1{
 
 ---
 layout: image
-image: ./UV-Scoprions.jpg
+image: ./scorpion_canibal.jpg
 class: 'text-center'
 ---
 
