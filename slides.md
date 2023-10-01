@@ -139,7 +139,7 @@ h1{
 
 ---
 layout: image
-image: ./UV-Scoprions.jpg
+image: ./desert_scorpion.jpg
 class: 'text-center'
 ---
 
