@@ -79,7 +79,7 @@ h1{
 
 ---
 layout: image
-image: ./scorpion_collage.png
+image: ./Meerkat.jpg
 class: 'text-center'
 ---
 
@@ -98,7 +98,7 @@ image: ./scorpion_collage.png
 class: 'text-center'
 ---
 
-# There are 1500 species of scorpion
+# Their armour contains of fluorescent chemicals that glow under uv light.
 
 <style>
 h1{
